@@ -1,0 +1,100 @@
+body {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: beige;
+    background-image: linear-gradient(180deg,lightpink 0%, lightblue 100%);
+    font-family: 'Poppins', sans-serif;
+    overflow: hidden;
+    
+}
+
+form {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    max-width: 400px;
+    width: 100%;
+
+}
+
+h2 {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.parentDiv{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.text-center{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    justify-content: center;
+    padding: 20px;
+}
+
+.spec{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 25px;
+    padding: 5px;
+}
+
+.Label1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 25px;
+    padding: 5px;
+}
+
+.Label2{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 25px;
+    padding: 5px;
+}
+
+.Label3{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 25px;
+    padding: 5px;
+}
+
+.opts1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 25px ;
+    padding: 5px;
+}
+
+.Label4{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 25px;
+    padding: 5px;
+}
+
+.Label5{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 25px;
+    padding: 5px;
+}
+
+.Label6{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 25px;
+    padding: 5px;
+}
+
+.Button {
+    padding: 10px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
