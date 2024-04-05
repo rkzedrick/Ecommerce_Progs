@@ -1,0 +1,53 @@
+body {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: linear-gradient(180deg,lightpink 0%, lightblue 100%);
+    font-family: 'Poppins', sans-serif;
+
+    
+}
+
+.container {
+    background-color: white;
+    outline: 2px solid #fff;
+    border-radius: 10px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+    padding: 40px;
+    max-width: 500px;
+    width: 100%;
+
+}
+
+h2 {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.StudID, .StudID, .Label1, .Label2, .Label3, .Label4, .Label5, .Label6, .Label7, .Label8, .Label9, .Gender{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 25px;
+    padding: 5px;
+    text-align: center;
+}
+
+
+
+.buttons {
+    display: flex;
+    text-align: center;
+    margin: auto;
+    justify-content: center;
+    }
+
+    .update{
+        padding-right: 10px;
+        
+    }
+    
+    .logout{
+        padding-left: 10px;
+    }
+
