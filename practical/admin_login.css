@@ -1,0 +1,88 @@
+body {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: ( lightblue 100%);
+    font-family: 'Poppins', sans-serif;
+
+    
+}
+
+form {
+    margin-top: 180px;
+    background-color: #fff;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    width: 400px;
+    height: 300px;
+    
+
+}
+
+h2 {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.parentDiv{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.text-center{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    justify-content: center;
+    padding: 20px;
+}
+
+.spec{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 25px;
+    padding: 5px;
+}
+
+.Username{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 25px;
+    padding: 5px;
+    text-align: center;
+    justify-content: center;
+}
+
+.Password{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 25px;
+    padding: 5px;
+    text-align: center;
+    justify-content: center;
+}
+
+.buttons {
+    display: flex;
+    text-align: center;
+    margin: auto;
+    justify-content: center;
+    padding: 10px;
+    width: 30px;
+    height: 15px;
+    }
+
+.login{
+    padding-right: 10px;
+    
+}
+
+.register{
+    padding-left: 10px;
+}
+
+input{
+    width: 75%;
+    padding: 10px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+  }
